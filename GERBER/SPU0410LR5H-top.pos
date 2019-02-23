@@ -1,0 +1,14 @@
+### Module positions - created on 2019/02/23 10:33:58 ###
+### Printed by Pcbnew version kicad (5.0.2)-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                PosX       PosY       Rot  Side
+C1        4.7u      generic-SMD1608    146.4440  -106.1000  180.0000  top
+C2        4.7u      generic-SMD1608    151.2640  -107.9400  180.0000  top
+C4        0.1u      generic-SMD1608    146.4740  -114.9900  180.0000  top
+R1        10k       generic-SMD1608    151.2940  -115.5400    0.0000  top
+R2        10k       generic-SMD1608    151.2960  -117.4100  180.0000  top
+R3        10k       generic-SMD1608    151.2660  -106.0700    0.0000  top
+R4        500k      generic-SMD1608    142.8460  -106.1500    0.0000  top
+U2        LM321     SC-70-5            146.4400  -111.3200  270.0000  top
+## End
