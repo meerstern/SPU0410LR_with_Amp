@@ -14,6 +14,11 @@ The Converter board of Kicad Data for SPU0410LR with Apmlifer
 
 <img src="https://github.com/meerstern/SPU0410LR_with_Amp/blob/master/img2.jpg" width="360">
 
+<img src="https://github.com/meerstern/SPU0410LR_with_Amp/blob/master/photo1.JPG" width="360">
+
+
+<img src="https://github.com/meerstern/SPU0410LR_with_Amp/blob/master/photo2.JPG" width="360">
+
 License - MIT
 
 [1]: https://www.digikey.jp/product-detail/ja/knowles/SPU0410LR5H-QB-7/423-1139-1-ND/2420983 "*1"
