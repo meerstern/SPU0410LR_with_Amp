@@ -21,6 +21,10 @@ The Converter board of Kicad Data for SPU0410LR with Apmlifer
 ## 販売サイト
   * [スイッチサイエンス][2]
 
+
+## 告知
+SPU0410LR5Hの生産完了に伴い、[後継品のSPV0142LR5H][5]に移行しました(26年4月)。
+
 <img src="https://github.com/meerstern/SPU0410LR_with_Amp/blob/master/img1.jpg" width="360">
 
 
@@ -31,8 +35,6 @@ The Converter board of Kicad Data for SPU0410LR with Apmlifer
 
 <img src="https://github.com/meerstern/SPU0410LR_with_Amp/blob/master/photo2.JPG" width="360">
 
-## 告知
-SPU0410LR5Hの生産完了に伴い、弊社在庫がなくなり次第、後継品のSPV0142LR5Hに移行予定(26年頃)です。
 
 License - MIT
 
@@ -44,4 +46,5 @@ License - MIT
 [B]: https://github.com/meerstern/SPU0410LR_with_VariableAmp
 [C]: https://github.com/meerstern/SPU0410LR_with_Amp
 [D]: https://github.com/meerstern/SPH0641LU
+[5]: https://github.com/meerstern/SPV0142LR5H_with_Amp
 
